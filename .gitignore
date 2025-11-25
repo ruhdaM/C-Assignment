@@ -1,0 +1,21 @@
+# Ignore Windows executables
+*.exe
+
+# Ignore JSON files
+*.json
+
+# Ignore object files
+*.o
+
+# Ignore compiled output
+*.out
+*.obj
+
+# Ignore libraries
+*.dll
+*.so
+*.dylib
+
+# Ignore build folders
+build/
+debug/
